@@ -1,0 +1,22 @@
+# User-specific files
+[Ll]ocal/
+[Ll]ogs/
+*Development.json
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.DotSettings.user
+
+# Visual Studio
+.vs/
+
+# .NET folders
+bin/
+obj/
+
+# Client
+wwwroot/
+node_modules/
